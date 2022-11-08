@@ -1,0 +1,3 @@
+/Users/bob/workspace/CPPProjects/cpp_study/build/CMakeFiles/work_manager.dir
+/Users/bob/workspace/CPPProjects/cpp_study/build/CMakeFiles/edit_cache.dir
+/Users/bob/workspace/CPPProjects/cpp_study/build/CMakeFiles/rebuild_cache.dir
